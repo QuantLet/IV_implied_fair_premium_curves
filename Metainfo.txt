@@ -1,0 +1,9 @@
+Name of Quantlet : IV_implied_fair_premium_curves
+
+Description : Plot fair premium curves 
+
+Keywords : p2p, p2p lending, no arbitrage, borrowing rate, IV surfaces, yield curves
+
+Author : Francis Liu
+
+Submitted : 2022/10/05
